@@ -13,4 +13,5 @@ fish $OMF_SCRIPT --noninteractive --yes
 rm $OMF_SCRIPT
 
 # Install a nice theme
-omf install fishbone
+omf install aight
+omf theme aight

@@ -1,4 +1,8 @@
+set LC_ALL en_US.UTF-8
+set LANG en_US.UTF-8
+
 set PATH /usr/local/bin $PATH
+set PATH /usr/local/sbin $PATH
 
 set GOPATH ~/go
 set PATH $GOPATH/bin $PATH

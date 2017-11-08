@@ -10,3 +10,5 @@ set PATH $GOPATH/bin $PATH
 # Activate virtualfish support. If virtualfish is not installed, use `pip
 # install virtualfish`.
 eval (python -m virtualfish)
+
+[ -e local.fish ]; and source local.fish
